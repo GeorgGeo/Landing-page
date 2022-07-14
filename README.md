@@ -10,11 +10,11 @@
 > - Адаптивность, annimation CSS
 > - JavaScript
 > - **jQuery**
->    [x] Кнопка прокрутки наверх
->    [x] Плавная прокрутка
->    [x] Menu gamburger
->    [x] Popup-окно
->    [x] Tabs
+>    - [x] Кнопка прокрутки наверх
+>    - [x] Плавная прокрутка
+>    - [x] Menu gamburger
+>    - [x] Popup-окно
+>    - [x] Tabs
 > - Фреймворк **Bootstrap**
 > - **Плагины** (_применены_ _при_ _вёрстке_)
 >    - [x] Slickslider
