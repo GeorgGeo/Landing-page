@@ -21,5 +21,5 @@
 ---
 ## Макет
 <br>
-<img height="500" width="500" src="">
+<img height="500" width="500" src="https://github.com/GeorgGeo/Layout-2/blob/main/Gravity-fig.jpg">
 </br>
