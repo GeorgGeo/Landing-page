@@ -5,7 +5,7 @@
 ## Реализация (с помощью каких инструментов)
 
 > - Работа с графическим редактором Figma
-> - Вёрстка HTML/CSS (включительно _HTML5/CSS3_)
+> - Вёрстка HTML/CSS (включительно <img width="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">/<img width="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">)
 > - Методология БЭМ
 > - Адаптивность, annimation CSS
 > - JavaScript
