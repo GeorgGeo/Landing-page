@@ -7,8 +7,8 @@ $(function() {
       infinite: true,
       slidesToShow: 1,
       slidesToScroll: 1,
-      prevArrow: '<img src="../image/left.svg"  alt="1">',
-      nextArrow: '<img src="../image/right.svg" alt="2">',
+      prevArrow: '<img src="./image/left.svg"  alt="1">',
+      nextArrow: '<img src="./image/right.svg" alt="2">',
       appendArrows: $('.content'),
       variableWidth: true//Чтобы установить собственную ширину
     });
