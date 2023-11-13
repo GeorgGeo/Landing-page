@@ -7,8 +7,8 @@ $(function() {
       infinite: true,
       slidesToShow: 1,
       slidesToScroll: 1,
-      prevArrow: '<img src="./image/left.svg"  alt="1">',
-      nextArrow: '<img src="./image/right.svg" alt="2">',
+      prevArrow: '<img src="./image/left.svg"  alt="Left Arrow">',
+      nextArrow: '<img src="./image/right.svg" alt="Right Arrow">',
       appendArrows: $('.content'),
       variableWidth: true//Чтобы установить собственную ширину
     });
@@ -19,8 +19,8 @@ $(function() {
       infinite: true,
       slidesToShow: 1,
       slidesToScroll: 1,
-      prevArrow: '<img src="./image/left.svg"  alt="1">',
-      nextArrow: '<img src="./image/right.svg" alt="2">',
+      prevArrow: '<img src="./image/left.svg"  alt="Left Arrow">',
+      nextArrow: '<img src="./image/right.svg" alt="Right Arrow">',
       appendArrows: $('.cont'),
     });
     // tabs
